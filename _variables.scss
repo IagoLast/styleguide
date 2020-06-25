@@ -1,0 +1,39 @@
+/* === COLORS === */
+
+/* Neutral */
+$white: #ffffff;
+$gray--50: #f6f6f6;
+$gray--100: #eeeeee;
+$gray--200: #e2e2e2;
+$gray--300: #cbcbcb;
+$gray--400: #afafaf;
+$gray--500: #757575;
+$gray--600: #545454;
+$gray--700: #333333;
+$gray--900: #1a1a1a;
+$black: #000000;
+
+/* Accents */
+$blue: #0066ff;
+
+$green--50: #f0f9f4;
+$green--300: #73c496;
+$green--400: #47b275;
+$green--600: #2b6b46;
+
+$red--50: #fef1ef;
+$red--100: #fcdcd7;
+$red--300: #f57b68;
+$red--400: #f25138;
+$red--600: #913122;
+
+/* Theme */
+$color-primary: $blue;
+$color-negative: $red--400;
+$color-positive: $green--400;
+
+$shadow: 0 3px 24px rgba($black, 0.08), 0 0 4px rgba($black, 0.03);
+
+/* === BREAKPOINTS === */
+$responsive-tablet: 700px;
+$responsive-desktop: 1400px;
